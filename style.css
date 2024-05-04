@@ -29,3 +29,10 @@ h1{
     height: 0px;
     top: 0px;
 }
+#password
+{
+    position: relative;
+    left: 0px;
+    top: 1000px;
+    width: 200px;  
+}
